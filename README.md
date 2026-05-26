@@ -1,4 +1,5 @@
 # Empathy-Hub
+<<<<<<< HEAD
 
 Empathy Hub is a mental wellness platform built with a Laravel backend and a React frontend.
 
@@ -25,3 +26,6 @@ Frontend is available at:
 
 - Frontend assets are built into `public/app/`
 - Additional project instructions are in `RUN_PROJECT.md`
+=======
+Empathy Hub is a centralized platform designed to make mental health care supportive, affordable, and accessible.
+>>>>>>> 66974172ea75eb46e84a0fe32d45c6187e15aa75
